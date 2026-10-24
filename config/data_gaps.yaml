@@ -1,0 +1,32 @@
+情感模式:
+  rating: 1
+  focus: true
+  description: 几乎没有数据，访谈重点方向
+失败经验:
+  rating: 2
+  focus: true
+  description: 对挫折的具体应对策略
+家庭背景:
+  rating: 2
+  focus: true
+  description: 资金紧迫感的根源
+长期恐惧:
+  rating: 1
+  focus: true
+  description: 10年后最怕什么
+思维模式:
+  rating: 4
+  focus: false
+  description: 5周观察充分覆盖
+价值观:
+  rating: 4
+  focus: false
+  description: 系统化沉淀完成
+执行风格:
+  rating: 4
+  focus: false
+  description: 多维度确认
+经历完整性:
+  rating: 3
+  focus: false
+  description: 当前状态清晰，历史待补充

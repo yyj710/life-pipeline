@@ -1,0 +1,6 @@
+.env
+.knowledge_cache.json
+__pycache__/
+*.pyc
+.venv/
+venv/

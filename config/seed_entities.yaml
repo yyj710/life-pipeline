@@ -1,0 +1,96 @@
+人物:
+  李笑来:
+    aliases:
+    - 笑来
+  CZ:
+    aliases:
+    - 赵长鹏
+    - cz
+  王振宇: {}
+  邓云瀚: {}
+  张行: {}
+  蔡垒磊: {}
+  广智: {}
+组织:
+  深大:
+    aliases:
+    - 深圳大学
+  安永: {}
+  德勤: {}
+  四大: {}
+  APEC: {}
+工具:
+  Claude:
+    aliases:
+    - Claude Code
+    - claude
+  Codex: {}
+  DeepSeek:
+    aliases:
+    - deepseek
+  Obsidian:
+    aliases:
+    - ob
+  飞书:
+    aliases:
+    - feishu
+    - lark
+  GitHub:
+    aliases:
+    - github
+  Cursor: {}
+概念:
+  价值交换: {}
+  杠铃策略: {}
+  37%理论: {}
+  结果导向: {}
+  生产优先: {}
+  长期主义: {}
+  注意力保护: {}
+  资产思维: {}
+  一五计划: {}
+  数字永生:
+    aliases:
+    - 数字生命
+  信息节食: {}
+  母问题子问题: {}
+  被动收入: {}
+  财务自由: {}
+项目:
+  jellyAI: {}
+  公众号:
+    aliases:
+    - 自媒体
+  创英前后端:
+    aliases:
+    - 前后端部署
+  ACCA JHC: {}
+课程:
+  ACCA:
+    aliases:
+    - FA
+    - MA
+    - LW
+  高等数学:
+    aliases:
+    - 高数
+  管理学原理: {}
+  会计学原理: {}
+考试:
+  雅思:
+    aliases:
+    - IELTS
+  四级:
+    aliases:
+    - CET4
+    - 六级
+    - CET6
+赛道:
+  生产输出:
+    type: topic
+  英语:
+    type: topic
+  财务CPA:
+    type: topic
+  区块链技术:
+    type: topic
