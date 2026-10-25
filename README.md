@@ -8,7 +8,7 @@
 ![Feishu](https://img.shields.io/badge/飞书-Bitable%20API-00d6b9)
 ![Obsidian](https://img.shields.io/badge/Obsidian-vault-7c3aed)
 
-## Understand it in 30 seconds
+## What it does
 
 **Pain**: journaling is easy, but entries die after writing — nobody re-reads them, experience doesn't compound, ideas aren't tracked.
 
